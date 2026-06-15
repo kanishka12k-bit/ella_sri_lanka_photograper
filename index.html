@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ella Sri Lanka Photographer</title>
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Raleway:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <!--Link stylesheet-->
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+  <!-- ═══════════════════ Preloader ═══════════════════ -->
+  <div id="creative-preloader">
+    <div class="loader-content">
+      <div class="brand-logo fs-1"><span>Ella Sri Lanka</span>Photographer</div>
+      <div class="progress-container">
+        <div class="progress-bar"></div>
+      </div>
+      <p class="loading-text">Loading...</p>
+    </div>
+  </div>
+  <!-- ═══════════════════ NAVBAR ═══════════════════ -->
+  <!-- ----------- NAVBAR  (desktop + mobile trigger) ----------- -->
+  <nav class="navbar navbar-expand-lg" id="mainNav">
+    <div class="container-fluid px-4 d-flex align-items-center justify-content-between">
+
+      <h1 class="navbar-brand desktop">Ella Sri Lanka Photographer</h1>
+      <h1 class="navbar-brand mobile">Ella Photographer</h1>
+
+
+      <div class="d-none d-lg-flex align-items-center gap-1">
+        <ul class="navbar-nav align-items-center gap-1 me-3">
+          <li class="nav-item"><a class="nav-link" href="./about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="./portfolio.html">Portfolio</a></li>
+          <li class="nav-item"><a class="nav-link" href="./pricing.html">Price</a></li>
+          <li class="nav-item"><a class="nav-link" href="./contact.html">Contact</a></li>
+        </ul>
+
+        <a class="btn-booking-desktop" href="./contact.html#contact-form">
+          <i class="bi bi-camera"></i> Book a Session
+        </a>
+      </div>
+
+      <button class="mobile-menu-btn d-lg-none" id="mobileMenuBtn" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+
+    </div>
+  </nav>
+
+
+  <div class="offcanvas-overlay" id="offcanvasOverlay"></div>
+
+<!-- ----------- MOBILE SLIDE-IN PANEL ----------- -->
+  <div class="offcanvas-nav" id="offcanvasNav">
+
+    <div class="offcanvas-header">
+      <span class="offcanvas-brand">Ella Sri Lanka<em>Photographer</em></span>
+      <button class="offcanvas-close" id="offcanvasClose" aria-label="Close menu">
+        <i class="bi bi-x-lg"></i>
+      </button>
+    </div>
+
+    <nav class="offcanvas-links">
+      <a href="./index.html" class="offcanvas-link"><span class="link-num">01</span>Home</a>
+      <a href="./about.html" class="offcanvas-link"><span class="link-num">02</span>About</a>
+      <a href="./portfolio.html" class="offcanvas-link"><span class="link-num">03</span>Portfolio</a>
+      <a href="./pricing.html" class="offcanvas-link"><span class="link-num">04</span>Price</a>
+      <a href="./contact.html" class="offcanvas-link"><span class="link-num">05</span>Contact</a>
+    </nav>
+
+    <div class="offcanvas-booking-wrap">
+      <a class="btn-booking-mobile" href="./contact.html#contact-form">
+        <i class="bi bi-camera-fill"></i> Book a Session
+      </a>
+    </div>
+
+    <div class="offcanvas-footer">
+      <div class="offcanvas-social d-flex justify-content-center">
+        <a href="https://www.instagram.com/champika_rathnayaka?igsh=MXRrNWJieXdpM2N6bg==" target="_blank"><i
+            class="bi bi-instagram"></i></a>
+        <a href="https://wa.me/94771188536?text=*Hello!%20Ella%20Sri%20Lanka%20Photographer...*" target="_blank"><i
+            class="bi bi-whatsapp"></i></a>
+        <a href="https://www.facebook.com/share/1FnJVCYvi4/" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="https://t.me/champikarathnayakaphotography" target="_blank"><i class="bi bi-telegram"></i></a>
+      </div>
+      <p class="offcanvas-copy">&copy; 2026 Ella Sri Lanka Photographer</p>
+    </div>
+
+  </div>
+  <!-- ═══════════════════ HERO SLIDER ═══════════════════ -->
+  <section class="hero-section position-relative w-100 overflow-hidden d-flex justify-content-center align-items-end">
+
+    <!-- Slideshow Images -->
+    <div class="hero-slideshow position-absolute top-0 start-0 w-100 h-100">
+      <img src="./assets/img/landing/hero-img-1.jpg" class="slide hero-img-1 active" alt="Photoshoot 1">
+      <img src="./assets/img/landing/hero-img-2.jpg" class="slide hero-img-2" alt="Photoshoot 2">
+      <img src="./assets/img/landing/hero-img-3.jpg" class="slide hero-img-3" alt="Photoshoot 3">
+      <img src="./assets/img/landing/hero-img-4.jpg" class="slide hero-img-4" alt="Photoshoot 4">
+    </div>
+
+    <!-- Dark Overlay -->
+    <div class="hero-overlay position-absolute top-0 start-0 w-100 h-100"></div>
+
+    <!-- Hero Content -->
+    <div class="hero-content position-relative text-center text-white px-3 w-100">
+      <h1 class="hero-title text-uppercase mb-4 fade-up">Ella Sri Lanka Photographer</h1>
+
+      <div class="hero-nav pb-3 d-flex justify-content-center align-items-center flex-wrap gap-2 fade-up delay-100">
+        <span class="text-white text-uppercase fw-semibold">solo Photoshoot</span>
+        <span class="separator text-white-50">|</span>
+        <span class="text-white text-uppercase fw-semibold">couples Photoshoot</span>
+        <span class="separator text-white-50">|</span>
+        <span class="text-white text-uppercase fw-semibold">Family Photoshoot</span>
+        <span class="separator text-white-50">|</span>
+        <span class="text-white text-uppercase fw-semibold">Pre-Weddings &amp; Weddings Photoshoot</span>
+        <span class="separator text-white-50">|</span>
+        <span class="text-white text-uppercase fw-semibold">Proposal Photoshoot</span>
+      </div>
+
+      <!-- Social -->
+      <div class="pb-4">
+        <a class="me-3 fade-up delay-200" href="https://www.instagram.com/champika_rathnayaka?igsh=MXRrNWJieXdpM2N6bg=="
+          target="_blank"><img class="hero-social-link" data-bs-toggle="tooltip" data-bs-placement="top"
+            title="instagram" src="./assets/img/landing/instagram-white-icon.jpg" /></a>
+        <a class="me-3 fade-up delay-300"
+          href="https://wa.me/94771188536?text=*Hello!%20Ella%20Sri%20Lanka%20Photographer...*" target="_blank"><img
+            class="hero-social-link" data-bs-toggle="tooltip" data-bs-placement="top" title="Whatsapp"
+            src="./assets/img/landing/whatsapp-white-icon.jpg" /></a>
+        <a class="me-3 fade-up delay-400" href="https://www.facebook.com/share/1FnJVCYvi4/" target="_blank"><img
+            class="hero-social-link" data-bs-toggle="tooltip" data-bs-placement="top" title="facebook"
+            src="./assets/img/landing/facebook-app-round-white-icon.jpg" /></a>
+        <a class="me-3 fade-up delay-500" href="https://t.me/champikarathnayakaphotography" target="_blank"><img
+            class="hero-social-link" data-bs-toggle="tooltip" data-bs-placement="top" title="telegram"
+            src="./assets/img/landing/telegram-white-icon.jpg" /></a>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ═══════════════════ ABOUT ═══════════════════ -->
+  <section id="about">
+    <div class="container">
+      <div class="row align-items-start" id="about-full-content">
+        <div class="fade-up">
+          <p class="section-label">About</p>
+          <h2 class="mb-4 fs-3" id="about-title"><i>I’m Champika Rathnayaka (Champi), the photographer behind Ella Sri
+              Lanka
+              Photographer.</i>
+          </h2>
+        </div>
+        <!-- Left col -->
+        <div class="col-lg-6" id="about-content">
+          <div class="fade-up">
+            <h3 class="fs-4">Discovering Ella Through My Lens</h3>
+            <ul>
+              <li>
+                <p class="about-text mb-4">
+                  From hidden scenic locations to breathtaking sunrise viewpoints and peaceful tea estates, I love
+                  helping travelers discover the most beautiful sides of Ella while creating unforgettable memories
+                  through photography.
+                </p>
+              </li>
+            </ul>
+          </div>
+
+          <div class="fade-up">
+            <h3 class="fs-4">My Photography Style & Expertise</h3>
+            <ul>
+              <li>
+                <p class="about-text mb-4">
+                  Since 2019, I have specialized in proposal, couples, pre-wedding, solo, family, and travel photography
+                  for visitors exploring Sri Lanka. My photography style focuses on natural emotions, real moments, and
+                  cinematic storytelling in a relaxed and friendly atmosphere.
+                </p>
+              </li>
+            </ul>
+          </div>
+
+          <div class="fade-up">
+            <h3 class="fs-4">More Than Just Photos</h3>
+            <ul>
+              <li>
+                <p class="about-text mb-4">
+                  More than simply taking photos, my goal is to help people connect beautiful memories with the
+                  incredible landscapes of Ella. Seeing clients happy and creating experiences they will always remember
+                  brings me genuine joy.
+                </p>
+              </li>
+            </ul>
+          </div>
+
+
+          <div class="fade-up">
+            <h3 class="fs-4">Trusted by Travelers</h3>
+            <ul>
+              <li>
+                <p class="about-text mb-4">
+                  Many of my clients come through recommendations from previous travelers, which means a lot to me and
+                  motivates me to continue creating meaningful experiences for every couples and visitor I work with.
+                </p>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Right col -->
+        <div class="col-lg-6">
+          <div class="d-flex justify-content-center align-items-center">
+            <div id="photographer-img" class="fade-up">
+              <img src="./assets/img/landing/photographer.jpeg" alt="">
+            </div>
+          </div>
+          <div class="d-flex justify-content-center fade-up">
+            <a href="./about.html" class="btn-read-more">Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════ COUNTERS ═══════════════════ -->
+  <section id="counters">
+    <h2 class="visually-hidden">Our Achievements</h2>
+    <div class="container">
+      <div class="row g-4 text-center justify-content-center">
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="2500">0</span>
+          <p class="counter-label">Photos Captured</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="350">0</span>
+          <p class="counter-label">Happy Clients</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="50">0</span>
+          <p class="counter-label">solo</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="100">0</span>
+          <p class="counter-label">Pre Wedding</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="50">0</span>
+          <p class="counter-label">Family</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="45">0</span>
+          <p class="counter-label">Proposal</p>
+        </div>
+        <div class="col-6 col-md-3 counter-item fade-up">
+          <span class="counter-number" data-target="110">0</span>
+          <p class="counter-label"><b style="font-size: 1rem;">5 </b>Star Reviews</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════ PORTFOLIO ═══════════════════ -->
+  <section id="portfolio">
+    <div class="container-fluid px-4">
+      <p class="section-label">Work</p>
+      <h2 class="section-title">My Portfolio</h2>
+      <p class="lead-text">Here you will be able to find my latest works</p>
+
+      <div class="portfolio-grid">
+        <div class="portfolio-item fade-up"><a href="portfolio.html?category=weddings"><img
+              src="./assets/img/landing/hero-all.jpg" alt="Jane & Kevin" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">all</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-100"><a href="portfolio.html?category=proposal"><img
+              src="./assets/img/landing/hero-proposal.JPG" alt="Diana & Wayne" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">proposal</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-200"><a href="portfolio.html?category=couples"><img
+              src="./assets/img/landing/hero-couple.jpg" alt="Ruth & Derek" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">couples</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-300"><a href="portfolio.html?category=solo"><img
+              src="./assets/img/landing/hero-solo.jpg" alt="Evelyn & John" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">solo</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up"><a href="portfolio.html?category=weddings"><img
+              src="./assets/img/landing/hero-wedding.jpg" alt="Mildred & Austin" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">wedding</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-100"><a href="portfolio.html?category=Pragnacy_Shoot"><img
+              src="./assets/img/landing/hero-pragncy.jpg" alt="June & Alan" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">Pragnacy Shoot</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-200"><a href="portfolio.html?category=train_ride"><img
+              src="./assets/img/landing/hero-train.jpg" alt="Julie & Mark" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">train ride</span></div>
+          </a>
+        </div>
+        <div class="portfolio-item fade-up delay-300"><a href="portfolio.html?category=Wedding_Local"><img
+              src="./assets/img/landing/hero-wedding_local.jpg" alt="Joan & Wilford" loading="lazy">
+            <div class="portfolio-overlay"><span class="portfolio-overlay-icon"><i class="bi bi-camera"></i></span><span
+                class="portfolio-overlay-title">Wedding (Local)</span></div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════ CTA BAND ═══════════════════ -->
+  <section id="cta-band">
+    <div class="container text-center">
+      <h2>Let's make something great together.</h2>
+      <a href="./contact.html" class="btn-cta">Book a Consultation</a>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════ REEL CARD ═══════════════════ -->
+  <section class="reel-stage d-flex align-items-center justify-content-center fade-up">
+
+    <!-- CARD 0 -->
+    <div class="reel-card" id="card0">
+      <video id="vid0" src="./assets/videos/1.mp4" playsinline muted></video>
+      <div class="mute-toggle" onclick="toggleMute(event)">
+        <i class="bi bi-volume-mute-fill"></i>
+      </div>
+      <div class="play-overlay">
+        <div class="btn-play"><svg viewBox="0 0 24 24">
+            <polygon points="5,3 19,12 5,21" />
+          </svg></div>
+      </div>
+      <div class="side-arrow">
+        <div class="btn-arrow" id="arr0">&#8592;</div>
+      </div>
+      <div class="reel-progress">
+        <div class="reel-progress-fill" id="prog0"></div>
+      </div>
+      <div class="reel-label">Reel 01</div>
+    </div>
+
+    <!-- CARD 1 -->
+    <div class="reel-card" id="card1">
+      <video id="vid1" src="./assets/videos/2.mp4" playsinline muted></video>
+      <div class="mute-toggle" onclick="toggleMute(event)">
+        <i class="bi bi-volume-mute-fill"></i>
+      </div>
+      <div class="play-overlay">
+        <div class="btn-play"><svg viewBox="0 0 24 24">
+            <polygon points="5,3 19,12 5,21" />
+          </svg></div>
+      </div>
+      <div class="side-arrow">
+        <div class="btn-arrow" id="arr1">&#8592;</div>
+      </div>
+      <div class="reel-progress">
+        <div class="reel-progress-fill" id="prog1"></div>
+      </div>
+      <div class="reel-label">Reel 02</div>
+    </div>
+
+    <!-- CARD 2 -->
+    <div class="reel-card" id="card2">
+      <video id="vid2" src="./assets/videos/3.mp4" playsinline muted></video>
+      <div class="mute-toggle" onclick="toggleMute(event)">
+        <i class="bi bi-volume-mute-fill"></i>
+      </div>
+      <div class="play-overlay">
+        <div class="btn-play"><svg viewBox="0 0 24 24">
+            <polygon points="5,3 19,12 5,21" />
+          </svg></div>
+      </div>
+      <div class="side-arrow">
+        <div class="btn-arrow" id="arr2">&#8592;</div>
+      </div>
+      <div class="reel-progress">
+        <div class="reel-progress-fill" id="prog2"></div>
+      </div>
+      <div class="reel-label">Reel 03</div>
+    </div>
+
+    <!-- CARD 3 -->
+    <div class="reel-card" id="card3">
+      <video id="vid3" src="./assets/videos/4.mp4" playsinline muted></video>
+      <div class="mute-toggle" onclick="toggleMute(event)">
+        <i class="bi bi-volume-mute-fill"></i>
+      </div>
+      <div class="play-overlay">
+        <div class="btn-play"><svg viewBox="0 0 24 24">
+            <polygon points="5,3 19,12 5,21" />
+          </svg></div>
+      </div>
+      <div class="side-arrow">
+        <div class="btn-arrow" id="arr3">&#8594;</div>
+      </div>
+      <div class="reel-progress">
+        <div class="reel-progress-fill" id="prog3"></div>
+      </div>
+      <div class="reel-label">Reel 04</div>
+    </div>
+
+    <!-- CARD 4 -->
+    <div class="reel-card" id="card4">
+      <video id="vid4" src="./assets/videos/5.mp4" playsinline muted></video>
+      <div class="mute-toggle" onclick="toggleMute(event)">
+        <i class="bi bi-volume-mute-fill"></i>
+      </div>
+      <div class="play-overlay">
+        <div class="btn-play"><svg viewBox="0 0 24 24">
+            <polygon points="5,3 19,12 5,21" />
+          </svg></div>
+      </div>
+      <div class="side-arrow">
+        <div class="btn-arrow" id="arr4">&#8594;</div>
+      </div>
+      <div class="reel-progress">
+        <div class="reel-progress-fill" id="prog4"></div>
+      </div>
+      <div class="reel-label">Reel 05</div>
+    </div>
+
+    <div class="reel-dots">
+      <div class="reel-dot" id="dot0"></div>
+      <div class="reel-dot" id="dot1"></div>
+      <div class="reel-dot" id="dot2"></div>
+      <div class="reel-dot" id="dot3"></div>
+      <div class="reel-dot" id="dot4"></div>
+    </div>
+
+  </section>
+
+  <!-- ═══════════════════ TESTIMONIALS ═══════════════════ -->
+  <section id="testimonials">
+    <div class="container">
+      <p class="section-label text-center">Testimonials</p>
+      <h2 class="section-title text-center">What Clients Say</h2>
+      <div class="row g-4 mt-3">
+        <div class="col-md-4 fade-up">
+          <div class="testimonial-card d-flex flex-column">
+            <h3 class="pt-1 fs-5">★★★★★</h3>
+            <p class="testimonial-text">Absolutely amazing experience! The photos were beyond beautiful and the whole
+              shoot felt natural and fun.</p>
+            <p class="testimonial-author mt-auto"><span class="testimonial-dot"></span>No Name</p>
+          </div>
+        </div>
+        <div class="col-md-4 fade-up delay-200">
+          <div class="testimonial-card d-flex flex-column">
+            <h3 class="pt-1 fs-5">★★★★★</h3>
+            <p class="testimonial-text">He helped plan my surprise proposal perfectly. Highly recommended for coupless
+              visiting Ella!</p>
+            <p class="testimonial-author mt-auto"><span class="testimonial-dot"></span>No Name</p>
+          </div>
+        </div>
+        <div class="col-md-4 fade-up delay-400">
+          <div class="testimonial-card d-flex flex-column">
+            <h3 class="pt-1 fs-5">★</h3>
+            <p class="testimonial-text">No comment</p>
+            <p class="testimonial-author mt-auto"><span class="testimonial-dot"></span>No Name</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- ═══════════════════ FOOTER ═══════════════════ -->
+  <footer>
+    <div class="container">
+      <div class="row mb-4">
+
+        <!-- Brand -->
+        <div class="col-lg-4 mb-4 d-flex justify-content-center fade-up">
+          <div>
+            <span class="brand text-center">Ella Sri Lanka Photographer</span>
+            <p class="mb-3 text-center" style="font-size:.88rem;line-height:1.8;">Fine-art wedding & portrait
+              photography.<br>Basedin Paris — available worldwide.</p>
+            <!-- Social -->
+            <div class="d-flex justify-content-center gap-3 mt-2">
+              <a class="me-3 social-media-link"
+                href="https://www.instagram.com/champika_rathnayaka?igsh=MXRrNWJieXdpM2N6bg==" target="_blank"><i
+                  class="bi bi-instagram" data-bs-toggle="tooltip" data-bs-placement="top" title="Instagram"></i></a>
+              <a class="me-3 social-media-link"
+                href="https://wa.me/94771188536?text=*Hello!%20Ella%20Sri%20Lanka%20Photographer..." target="_blank"><i
+                  class="bi bi-whatsapp" data-bs-toggle="tooltip" data-bs-placement="top" title="Whatsapp"></i></a>
+              <a class="me-3 social-media-link" href="https://www.facebook.com/share/1FnJVCYvi4/" target="_blank"><i
+                  class="bi bi-facebook" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook"></i></a>
+              <a class="me-3 social-media-link" href="https://t.me/champikarathnayakaphotography" target="_blank"><i
+                  class="bi bi-telegram" data-bs-toggle="tooltip" data-bs-placement="top" title="Telegram"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="col-lg-2 col-6 mb-4 fade-up delay-200 qlinks">
+          <h3 class="mb-3" style="font-size:1rem;letter-spacing:2px;font-weight:400;">Pages</h3>
+          <ul class="list-unstyled" style="font-size:.85rem;line-height:2.2;">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="./portfolio.html">Portfolio</a></li>
+            <li><a href="./pricing.html">Price</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <!-- Services -->
+        <div class="col-lg-2 mb-4 col-6 fade-up delay-300 qlinks">
+          <h3 class="mb-3" style="font-size:1rem;letter-spacing:2px;font-weight:400;">Photography Services</h3>
+          <ul class="list-unstyled" style="font-size:.85rem;line-height:2.2;">
+            <li><a href="./about.html#services">Weddings</a></li>
+            <li><a href="./about.html#services">Surprise Proposal</a></li>
+            <li><a href="./about.html#services">couples</a></li>
+            <li><a href="./about.html#services">solo Travel</a></li>
+            <li><a href="./about.html#services">Family</a></li>
+            <li><a href="./about.html#services">Ella Train Experience</a></li>
+          </ul>
+        </div>
+
+        <!-- Contact -->
+        <div class="col-lg-4 mb-4 fade-up delay-400">
+          <h3 class="mb-3" style="font-size:1rem;letter-spacing:2px;font-weight:400;">Get in Touch</h3>
+          <div id="footer-contact">
+            <span><i class="bi bi-person-fill"></i>Champika Rathnayaka</span>
+            <span class="d-block"><a href="tel:+94771188536"><i class="bi bi-telephone me-2"></i>+94 77 118
+                8536</a></span>
+            <span class="d-block"><a
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=kanishka12K12@gmail.com&su=Ella%20Sri%20Lanka%20Photogeapher%20📸&body=📌%20Hello!%20Ella%20Sri%20Lanka%20Photographer%20🖥"
+                target="_blank"><i class="bi bi-envelope me-2"></i>ellasrilankaphotographer.com</a></span>
+            <span class="d-block"><a href="https://maps.app.goo.gl/AbE2Rrnfe83Jq8Fr5" target="_blank"><i
+                  class="bi bi-geo-alt me-2"></i>Ella — Sri Lanka</a></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="copyright text-center">
+        <p>&copy; 2026 Ella Sri Lanka Photographer · All Rights Reserved</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="./assets/js/main.js"></script>
+  <script src="./assets/js/home.js"></script>
+</body>
+
+</html>
