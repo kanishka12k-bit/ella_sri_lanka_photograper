@@ -1,5 +1,5 @@
 const WHATSAPP_NUMBER = "94771188536";
-const WHATSAPP_MESSAGE = "*Hello!* Ella Sri Lanka Photographer...";
+const WHATSAPP_MESSAGE = "*Hello! Ella Sri Lanka Photographer...*";
 
 document.addEventListener("DOMContentLoaded", function () {
   const link = document.createElement("a");
