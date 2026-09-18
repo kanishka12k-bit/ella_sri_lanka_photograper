@@ -1,0 +1,532 @@
+{
+  "nav.home": "首页",
+  "nav.about": "关于我们",
+  "nav.portfolio": "作品集",
+  "nav.price": "价格",
+  "nav.explore": "探索埃拉",
+  "nav.contact": "联系我们",
+  "nav.book": "预约拍摄",
+
+  "count.h2":"我们的成就",
+  "count.photo_captured":"已拍摄照片",
+  "count.happy_clients":"满意客户",
+  "count.solo": "单人",
+  "count.pre_wedding": "婚纱照",
+  "count.family": "家庭",
+  "count.proposal": "求婚",
+  "count.video_reels": "视频短片",
+  "count.star_reviews": "星级评价",
+
+  "footer.paragraph": "单人、情侣、求婚、婚礼及家庭摄影师。<br> 您在斯里兰卡埃拉值得信赖的当地摄影师 — 可在斯里兰卡全境及世界各地提供服务。",
+  "footer.pages": "页面",
+  "footer.pages.home": "首页",
+  "footer.pages.about": "关于我们",
+  "footer.pages.portfolio": "作品集",
+  "footer.pages.price": "价格",
+  "footer.pages.explore": "探索",
+  "footer.pages.contact": "联系我们",
+  "footer.location": "目的地",
+  "footer.location.ella": "埃拉",
+  "footer.location.mirissa": "米瑞莎",
+  "footer.location.weligama": "威利加马",
+  "footer.location.galle": "加勒",
+  "footer.location.arugam_bay": "阿鲁甘湾",
+  "footer.location.kandy": "康提",
+  "footer.location.sigiriya": "狮子岩",
+  "footer.location.nuwara_eliya": "努沃勒埃利耶",
+  "footer.services" : "摄影服务",
+  "footer.services.wedding": "婚礼",
+  "footer.services.proposal": "惊喜求婚",
+  "footer.services.couple": "情侣与蜜月",
+  "footer.services.solo": "单人",
+  "footer.services.family": "家庭",
+  "footer.services.train": "埃拉火车体验",
+  "footer.contact": "联系方式",
+
+  "index.hero.solo": "单人写真拍摄",
+  "index.hero.family": "家庭写真拍摄",
+  "index.hero.couples": "情侣与蜜月写真拍摄",
+  "index.hero.preweddings": "婚纱照与婚礼写真拍摄",
+  "index.hero.proposal": "求婚写真拍摄",
+
+  "index.about": "关于",
+  "index.about.h2": "我是Champika Rathnayaka（Champi），埃拉斯里兰卡摄影师背后的摄影师。",
+  "index.about.1.h3": "通过我的镜头发现埃拉",
+  "index.about.paragraph1": "从隐秘的风景名胜到令人惊叹的日出观景点，再到宁静的茶园，我喜欢通过摄影帮助旅行者发现埃拉最美丽的一面，同时创造难忘的回忆。",
+  "index.about.2.h3": "我的摄影风格与专业技能",
+  "index.about.paragraph2": "自2019年以来，我一直专注于为探索斯里兰卡的游客提供求婚、情侣、婚纱照、单人、家庭及旅行摄影服务。我的摄影风格注重自然情感、真实瞬间以及在轻松友好的氛围中进行电影般的叙事。",
+  "index.about.3.h3": "不仅仅是照片",
+  "index.about.paragraph3": "我的目标不仅仅是拍照，更是帮助人们将美好的回忆与埃拉令人惊叹的风景联系在一起。看到客户开心，创造他们永远难忘的体验，为我带来真正的快乐。",
+  "index.about.4.h3": "深受旅行者信赖",
+  "index.about.paragraph4": "我的许多客户都是通过之前旅行者的推荐而来的，这对我意义重大，也激励我继续为每一对情侣和访客创造有意义的体验。",
+  "index.about.button": "阅读更多",
+
+  "index.portfolio.work": "作品",
+  "index.portfolio.h2": "我的作品集",
+  "index.portfolio.paragraph1": "在这里您可以找到我的最新作品",
+  "index.portfolio.all": "全部",
+  "index.portfolio.proposal": "求婚",
+  "index.portfolio.couples": "情侣",
+  "index.portfolio.solo": "单人",
+  "index.portfolio.wedding": "婚礼",
+  "index.portfolio.wedding_local": "婚礼（本地）",
+  "index.portfolio.family": "家庭",
+  "index.portfolio.train": "火车之旅",
+
+  "index.band.h2": "让我们一起创造美好的事物。",
+  "index.band.booking": "预约咨询",
+
+  "index.testimonial.p": "客户评价",
+  "index.testimonial.h2": "客户怎么说",
+
+  "index.privacy.text": "您的隐私",
+  "index.privacy": "您的回忆。您的隐私。",
+  "index.privacy.paragraph1": "您的信任对我们来说意味着一切。",
+  "index.privacy.paragraph2": "未经您的许可，我们绝不会将您的照片用于广告、社交媒体或任何其他推广目的，也不会与他人分享。您的隐私和安全始终是我们的首要考虑。",
+  "index.privacy.paragraph3": "每一位客户对我们都很重要。当您选择我们并信任我们保管您的特别时刻时，您不仅仅是一位客户——您成为我们旅程中宝贵的一部分。我们深深感激您对我们的信任，并致力于以应有的尊重和用心来保护您的回忆。",
+  "index.privacy.private": "私密",
+  "index.privacy.respected": "受尊重",
+  "index.privacy.protected": "受保护",
+  "index.privacy.paragraph4": "您的回忆弥足珍贵。您的信任是我们最大的责任。",
+
+
+
+
+
+  "portfolio.hero.span": "视觉故事",
+  "portfolio.hero": "我的作品集",
+  "portfolio.hero.paragraph": "八大类别 · 无限瞬间",
+
+  "portfolio.main.portfolio": "作品集",
+  "portfolio.main.h2": "我有幸讲述的故事",
+  "portfolio.main.paragraph": "按类别浏览或探索完整作品集 — 每一张照片都是定格的瞬间。",
+
+  "portfolio.category.all": "全部作品",
+  "portfolio.category.solo": "单人",
+  "portfolio.category.couples": "情侣",
+  "portfolio.category.proposal": "求婚",
+  "portfolio.category.wedding": "婚礼",
+  "portfolio.category.wedding_local": "婚礼（本地）",
+  "portfolio.category.family": "家庭",
+  "portfolio.category.train_ride": "火车之旅",
+
+  "portfolio.photos.weddings": "婚礼",
+  "portfolio.photos.wedding_local": "婚礼（本地）",
+  "portfolio.photos.couples": "情侣",
+  "portfolio.photos.solo": "单人",
+  "portfolio.photos.proposal": "求婚",
+  "portfolio.photos.family": "家庭",
+  "portfolio.photos.train_ride": "火车之旅",
+
+  "portfolio.photos.booking": "预约咨询",
+
+  "portfolio.band.h2": "准备好创造永恒的作品了吗？",
+  "portfolio.band.touchbutton": "联系我们",
+
+
+
+
+  
+  "about.hero.span": "摄影师",
+  "about.hero": "镜头之后",
+  "about.hero.paragraph": "热情 · 愿景 · 故事",
+
+  "about.intro.sectionlabel": "认识艺术家",
+  "about.intro.title": "我捕捉<br>永恒珍藏的瞬间",
+  "about.intro.paragraph1": "您好——我是 <strong>Champika Rathnayaka</strong>,一位常驻埃拉(Ella)及世界最令人惊叹风景之间的精致婚礼与人像摄影师。凭借十多年的从业经验,我坚信最好的照片不会打断瞬间——而是从瞬间中自然生长出来。",
+  "about.intro.paragraph2": "我的作品植根于纪实叙事,源自对光影、质感以及那些揭示人们真实自我的静谧瞬间的热爱。无论是新娘因自己的紧张而发笑的样子,还是两人无需言语便心领神会的对视——那些都是我倾注心血捕捉的画面。",
+  "about.intro.paragraph3": "摄影是让无形之物——情感、喜悦、爱——变得可见的艺术。",
+  "about.intro.paragraph4": "为到访斯里兰卡埃拉的旅行者、情侣和家庭提供奢华摄影体验。",
+  "about.intro.booking": "预约咨询",
+
+  "about.choose.section-label": "选择我们",
+  "about.choose.title": "为什么选择我们?",
+  "about.choose.h2-1": "实惠的价格",
+  "about.choose.h2-2": "灵活的套餐",
+  "about.choose.paragraph2": "根据您的具体需求、愿景和活动要求量身定制套餐。",
+  "about.choose.h2-3": "快速交付",
+  "about.choose.paragraph3": "我们确保您珍贵的回忆得到及时处理并交付给您,无需长时间等待。",
+  "about.choose.h2-4": "多样化的服务",
+  "about.choose.paragraph4": "在婚礼、活动、人像和旅行摄影等多种风格方面拥有专业经验",
+  "about.choose.h2-5": "清晰诚实的定价",
+  "about.choose.paragraph5": "没有隐藏费用。我们坚持完全透明,让您从一开始就清楚知道自己所支付的费用。",
+  "about.choose.h2-6": "终身在线访问",
+  "about.choose.paragraph6": "您的照片安全地托管在线上,让您随时随地查看、下载和分享您的珍贵回忆。",
+  "about.choose.h2-7": "全程支持服务",
+  "about.choose.paragraph7": "从最初的策划到最终的交付,我们提供专属支持,确保为您带来无缝的体验。",
+  "about.choose.h2-8": "专业设备",
+  "about.choose.paragraph8": "我们使用最先进的相机设备和后期制作工具,为您呈现顶级专业品质的影像。",
+
+  "about.service.section-label": "我提供的服务",
+  "about.service.h2": "摄影服务",
+  "about.service.1": "婚礼摄影",
+  "about.service.1-paragraph": "以优雅、电影般的摄影风格,庆祝两颗心的结合。我们捕捉您特别日子里真挚的情感、恢弘的细节与私密的瞬间,创作出一段流传一生的动人叙事。",
+  "about.service.2": "惊喜求婚摄影",
+  "about.service.2-paragraph": "打算问出人生中最重要的问题吗?我们帮助您在埃拉最令人叹为观止的地点,策划并记录下难忘的求婚时刻。从秘密策划到最终的「我愿意」,每一个细节都经过精心安排,只为让您的体验真正充满魔力。",
+  "about.service.3": "情侣摄影",
+  "about.service.3-paragraph": "在埃拉令人惊艳的风景中,用一场浪漫的拍摄庆祝你们的爱情。无论是蜜月、纪念日、订婚,还是仅仅一段美好的共同旅程,我们都将为您创作出值得永远珍藏的隽永影像。",
+  "about.service.4": "独自旅行摄影",
+  "about.service.4-paragraph": "独自旅行并不意味着您的回忆就该止步于镜头之外。我们的独行摄影服务旨在捕捉您的冒险精神、个性以及与斯里兰卡自然之美的连接。",
+  "about.service.5": "家庭摄影",
+  "about.service.5-paragraph": "与最重要的人一起创造有意义的回忆。轻松、自然、真实的家庭拍摄,只为留住那些代代相传、被珍视的瞬间。",
+  "about.service.6": "埃拉火车摄影体验",
+  "about.service.6-paragraph": "捕捉世界上最具风景魅力的火车之旅的魔力。一场独特的摄影体验,呈现令人惊叹的风光、标志性的火车车门,以及难忘的旅行瞬间。",
+  
+  "about.band.h2": "您的故事值得被讲述",
+  "about.band.booking": "开启对话",
+
+
+
+
+
+
+
+  "pricing.hero.span": "透明投资",
+  "pricing.hero.h1": "投资于<br />您的故事",
+  "pricing.hero.paragraph": "永恒的记忆 · 精心雕琢",
+
+  "pricing.intro.paragraph1": "套餐",
+  "pricing.intro.h2": "简单、诚实的定价",
+  "pricing.intro.paragraph2": "每一个爱情故事都是独一无二的——每次拍摄也是如此。选择符合您愿景的套餐，或者联系我们，我们将为您量身定制专属方案。",
+
+  "pricing.packages.1row": "单人旅行者",
+  "pricing.packages.1row.h3": "单人及埃拉高山火车体验摄影套餐",
+
+  "pricing.packages.solo-package-01": "单人 - 套餐 01",
+  "pricing.packages.solo-package-01.p1": "埃拉的一个美丽拍摄地点",
+  "pricing.packages.solo-package-01.p2": "20张专业精修照片",
+  "pricing.packages.solo-package-01.p3": "包含所有原片底片",
+  "pricing.packages.solo-package-01.p4": "专业摆姿指导",
+  "pricing.packages.solo-package-01.p5": "通过私人在线相册交付",
+  "pricing.packages.solo-package-01.p6": "免费下载权限",
+  "pricing.packages.solo-package-01.booking": "预订此套餐",
+
+  "pricing.packages.solo-package-02": "单人 - 套餐 02",
+  "pricing.packages.solo-package-02.p1": "埃拉的两个美丽拍摄地点",
+  "pricing.packages.solo-package-02.p2": "30张专业精修照片",
+  "pricing.packages.solo-package-02.p3": "包含所有原片底片",
+  "pricing.packages.solo-package-02.p4": "专业摆姿指导",
+  "pricing.packages.solo-package-02.p5": "通过私人在线相册交付",
+  "pricing.packages.solo-package-02.p6": "免费下载权限",
+  "pricing.packages.solo-package-02.p7": "捕捉更多埃拉的美丽风景",
+  "pricing.packages.solo-package-02.booking": "预订此套餐",
+
+  "pricing.packages.train-experience": "埃拉火车体验",
+  "pricing.packages.train-experience.p1": "埃拉至安贝维拉观光火车体验",
+  "pricing.packages.train-experience.p2": "全程专属摄影师跟拍",
+  "pricing.packages.train-experience.p3": "标志性火车车门及车窗摄影",
+  "pricing.packages.train-experience.p4": "令人惊叹的山地乡村风景摄影",
+  "pricing.packages.train-experience.p5": "25张专业精修照片",
+  "pricing.packages.train-experience.p6": "包含所有原片底片",
+  "pricing.packages.train-experience.p7": "专业摆姿指导",
+  "pricing.packages.train-experience.p8": "通过私人在线相册交付",
+  "pricing.packages.train-experience.p9": "免费下载权限",
+  "pricing.packages.train-experience.p10": "独特的斯里兰卡火车摄影体验",
+  "pricing.packages.train-experience.booking": "预订此套餐",
+
+  "pricing.packages.2row": "惊喜求婚",
+  "pricing.packages.2row.h3": "求婚套餐",
+  "pricing.packages.proposal-01.normal": "标准",
+  "pricing.packages.proposal-01": "求婚 - 套餐 01",
+  "pricing.packages.proposal-01.p1": "求婚纪实摄影",
+  "pricing.packages.proposal-01.p2": "情侣写真拍摄",
+  "pricing.packages.proposal-01.p3": "25张专业精修照片",
+  "pricing.packages.proposal-01.p4": "所有原片底片",
+  "pricing.packages.proposal-01.p5": "通过私人在线相册交付",
+  "pricing.packages.proposal-01.p6": "免费下载权限",
+  "pricing.packages.proposal-01.booking": "预订此套餐",
+
+  "pricing.packages.poposal-02.most-popular": "⭐ 最受欢迎",
+  "pricing.packages.poposal-02": "求婚 - 套餐 02",
+  "pricing.packages.poposal-02.p1": "求婚纪实摄影",
+  "pricing.packages.poposal-02.p2": "红玫瑰花束",
+  "pricing.packages.poposal-02.p3": "香槟布置",
+  "pricing.packages.poposal-02.p4": "情侣写真拍摄",
+  "pricing.packages.poposal-02.p5": "25张专业精修照片",
+  "pricing.packages.poposal-02.p6": "所有原片底片",
+  "pricing.packages.poposal-02.p7": "通过私人在线相册交付",
+  "pricing.packages.poposal-02.p8": "免费下载权限",
+  "pricing.packages.poposal-02.booking": "预订此套餐",
+
+  "pricing.packages.proposal-03.premium": "👑 高级定制",
+  "pricing.packages.proposal-03": "求婚 - 套餐 03",
+  "pricing.packages.proposal-03.p1": "完整的求婚体验",
+  "pricing.packages.proposal-03.p2": "求婚纪实摄影",
+  "pricing.packages.proposal-03.p3": "萨克斯现场演奏",
+  "pricing.packages.proposal-03.p4": "红玫瑰花束",
+  "pricing.packages.proposal-03.p5": "香槟布置",
+  "pricing.packages.proposal-03.p6": "花艺背景板布置",
+  "pricing.packages.proposal-03.p7": "<b>“嫁给我”发光字牌</b>",
+  "pricing.packages.proposal-03.p8": "专业摄像纪实",
+  "pricing.packages.proposal-03.p9": "情侣写真拍摄",
+  "pricing.packages.proposal-03.p10": "2段精剪短视频（Reels）",
+  "pricing.packages.proposal-03.p11": "25张专业精修照片",
+  "pricing.packages.proposal-03.p12": "所有原片底片",
+  "pricing.packages.proposal-03.p13": "通过私人在线相册交付",
+  "pricing.packages.proposal-03.p14": "免费下载权限",
+  "pricing.packages.proposal-03.booking": "预订此套餐",
+
+  "pricing.packages.3row": "婚礼与情侣",
+  "pricing.packages.3row.h3": "情侣与婚礼套餐",
+  "pricing.packages.couple-01": "情侣 - 套餐 01",
+  "pricing.packages.couple-01.p1": "埃拉的一个美丽拍摄地点",
+  "pricing.packages.couple-01.p2": "25张专业精修照片",
+  "pricing.packages.couple-01.p3": "包含情侣合影及个人肖像",
+  "pricing.packages.couple-01.p4": "包含所有原片底片",
+  "pricing.packages.couple-01.p5": "专业摆姿指导",
+  "pricing.packages.couple-01.p6": "通过私人在线相册交付",
+  "pricing.packages.couple-01.p7": "免费下载权限",
+  "pricing.packages.couple-01.p8": "非常适合情侣、蜜月旅行及结婚纪念日",
+  "pricing.packages.couple-01.booking": "预订此套餐",
+
+  "pricing.packages.couple-02": "情侣 - 套餐 02",
+  "pricing.packages.couple-02.p1": "埃拉的两个美丽拍摄地点",
+  "pricing.packages.couple-02.p2": "35张专业精修照片",
+  "pricing.packages.couple-02.p3": "包含情侣合影及个人肖像",
+  "pricing.packages.couple-02.p4": "包含所有原片底片",
+  "pricing.packages.couple-02.p5": "专业摆姿指导",
+  "pricing.packages.couple-02.p6": "通过私人在线相册交付",
+  "pricing.packages.couple-02.p7": "免费下载权限",
+  "pricing.packages.couple-02.p8": "捕捉更多埃拉的美丽风景",
+  "pricing.packages.couple-02.booking": "预订此套餐",
+
+  "pricing.packages.wedding": "婚礼摄影",
+  "pricing.packages.wedding.p1": "婚礼纪实摄影",
+  "pricing.packages.wedding.p2": "专业精修照片",
+  "pricing.packages.wedding.p3": "所有原片底片",
+  "pricing.packages.wedding.p4": "通过私人在线相册交付",
+  "pricing.packages.wedding.p5": "免费下载权限",
+  "pricing.packages.wedding.booking": "预订此套餐",
+
+  "pricing.packages.4row": "家庭",
+  "pricing.packages.4row.h3": "家庭套餐与可选增值服务",
+  "pricing.packages.family-01": "家庭 - 套餐 01",
+  "pricing.packages.family-01.p1": "埃拉的一个美丽拍摄地点",
+  "pricing.packages.family-01.p2": "25张专业精修照片",
+  "pricing.packages.family-01.p3": "包含所有原片底片",
+  "pricing.packages.family-01.p4": "专业摆姿指导",
+  "pricing.packages.family-01.p5": "家庭合影及个人肖像",
+  "pricing.packages.family-01.p6": "通过私人在线相册交付",
+  "pricing.packages.family-01.p7": "免费下载权限",
+  "pricing.packages.family-01.p8": "非常适合斯里兰卡家庭度假",
+  "pricing.packages.family-01.booking": "预订此套餐",
+
+  "pricing.packages.family-02": "家庭 - 套餐 02",
+  "pricing.packages.family-02.p1": "埃拉的两个美丽拍摄地点",
+  "pricing.packages.family-02.p2": "35张专业精修照片",
+  "pricing.packages.family-02.p3": "包含所有原片底片",
+  "pricing.packages.family-02.p4": "专业摆姿指导",
+  "pricing.packages.family-02.p5": "家庭合影及个人肖像",
+  "pricing.packages.family-02.p6": "通过私人在线相册交付",
+  "pricing.packages.family-02.p7": "免费下载权限",
+  "pricing.packages.family-02.p8": "捕捉更多埃拉的美丽风景",
+  "pricing.packages.family-02.booking": "预订此套餐",
+
+  "pricing.packages.addons.h3": "可选增值服务",
+  "pricing.packages.addons.title": "提升您的拍摄体验",
+  "pricing.packages.addons-01": "无人机航拍",
+  "pricing.packages.addons-02": "求婚发光字标与鲜花装饰",
+  "pricing.packages.addons-03": "新鲜玫瑰花束",
+  "pricing.packages.addons-04": "香槟布置",
+  "pricing.packages.addons-05": "庆祝蛋糕",
+  "pricing.packages.addons-06": "萨克斯现场演奏",
+  "pricing.packages.addons-07": "专业摄像（2段短视频）",
+  "pricing.packages.addons-08": "增加拍摄地点",
+  "pricing.packages.addons-09": "延长拍摄时间（每小时）",
+
+  "pricing.location.shot": "拍摄地点",
+  "pricing.location.h2": "热门地点",
+  "pricing.location.paragraph": "埃拉处处皆是令人叹为观止的美景。这些是我为客户创作永恒影像的最爱地点——每一处都充满魔力。",
+  "pricing.location-01": "地点 01",
+  "pricing.location-02": "地点 02",
+  "pricing.location-03": "地点 03",
+  "pricing.location-04": "地点 04",
+  "pricing.location-05": "地点 05",
+  "pricing.location-06": "地点 06",
+
+  "pricing.process.title": "服务流程",
+  "pricing.process.h2": "拍摄体验",
+  "pricing.process.step-1.h2": "前期咨询",
+  "pricing.process.step-1.p": "我们进行沟通，了解您的愿景、故事以及让您的一天独一无二的所有细节。",
+  "pricing.process.step-2.h2": "开始拍摄",
+  "pricing.process.step-2.p": "我携带专业设备准时到达，完美捕捉每一个真实而短暂的精彩瞬间。",
+  "pricing.process.step-3.h2": "艺术精修",
+  "pricing.process.step-3.p": "每张照片都以我标志性的电影风格进行独立调色和精雕细琢。",
+  "pricing.process.step-4.h2": "数码交付",
+  "pricing.process.step-4.p": "您的专属相册将通过安全的在线链接交付——您可以随时下载、分享并永远珍藏。",
+  
+  "pricing.band.h2": "准备好开始您的故事了吗？",
+  "pricing.band.p": "让我们聊聊您的拍摄计划",
+  "pricing.band.booking": "预约咨询",
+
+
+
+
+
+
+
+
+
+
+
+  "explore.hero.span": "斯里兰卡埃拉：摄影师指南",
+  "explore.hero": "埃 Ella 探索",
+  "explore.hero.p": "斯里兰卡埃 Ella 的 12 个最佳摄影胜地",
+
+  "explore.infro.p1": "当地摄影师指南",
+  "explore.infro.h2": "斯里兰卡埃 Ella 的最佳摄影胜地",
+  "explore.infro.p2": "斯里兰卡的埃 Ella 是岛上最美丽的摄影目的地之一。被郁郁葱葱的绿色山脉、茶园、瀑布、铁轨和壮丽的观景台环绕，埃 Ella 为情侣写真、蜜月摄影、婚纱摄影、惊喜求婚、个人肖像、家庭摄影和旅行摄影提供了绝佳的地点。",
+  "explore.infro.p3": "从标志性的九拱桥和令人叹为观止的小亚当峰，到风景优美的茶园、纳努奥亚至埃 Ella 的火车之旅、埃 Ella 秋千、瀑布、隐秘观景台和浪漫的求婚地点——探索下面的每一个景点，开始规划您的埃 Ella 摄影体验。 📸",
+
+  "excplore.best-time.p1": "规划您的访问",
+  "excplore.best-time.h2": "在埃 Ella 拍照的最佳时间是什么时候？",
+  "excplore.best-time.p2": "选择正确的时间与选择正确的地点同样重要。点击下方的一天中的某个时间，然后向下滚动——在那个时间闪耀的景点将在列表中发光。",
+  "excplore.best-time.all": "全部",
+  "excplore.best-time.sunrise": "日出",
+  "excplore.best-time.morning": "早晨",
+  "excplore.best-time.daytime": "白天",
+  "excplore.best-time.sunset": "日落",
+  "excplore.best-time.evening": "傍晚",
+  "excplore.best-time.p3": "显示所有摄影胜地——向下滚动查看下方完整列表。",
+
+  "explore.location.best-for": "最适合：",
+  "explore.location.best-time": "最佳时间：",
+
+  "explore.location-01": "— 埃 Ella 最标志性的拍照胜地",
+  "explore.location-01.p1": "九拱桥是埃 Ella 最著名的地标之一，也是斯里兰卡埃 Ella 最佳的摄影胜地之一。",
+  "explore.location-01.p2": "这座历史悠久的铁路桥被郁郁葱葱的绿色丛林和山脉环绕，构成了经典的埃 Ella 旅行照片。当火车驶过大桥时，这里的景色更是壮观。",
+  "explore.location-01.p3": "对于情侣和度蜜月的人来说，这座大桥完美结合了建筑、自然和斯里兰卡著名的铁路风光。",
+  "explore.location-01.best-for": "情侣 · 个人 · 家庭",
+  "explore.location-01.best-time": "早晨 / 傍晚",
+
+  "explore.location-02": "— 日出与日落摄影",
+  "explore.location-02.p1": "小亚当峰是埃 Ella 最受欢迎的观景台之一，也是情侣摄影和惊喜求婚的最佳地点之一。",
+  "explore.location-02.p2": "前往观景台的步行相对轻松，一旦到达顶峰，您将收获埃 Ella 绿色山脉和山谷的壮丽景色。",
+  "explore.location-02.p3": "在日出和日落前后，当群山被柔和温暖的光线笼罩时，这里的景色格外美丽。",
+  "explore.location-02.best-for": "情侣 · 求婚 · 个人",
+  "explore.location-02.best-time": "日出 / 日落",
+
+  "explore.location-03": "— 探险与戏剧性山地摄影",
+  "explore.location-03.p1": "如果您想要更具冒险精神的体验，埃 Ella 岩是埃 Ella 周边最好的摄影地点之一。",
+  "explore.location-03.p2": "这里的徒步旅行比小亚当峰更具挑战性，但壮观的山景让这一切非常值得。",
+  "explore.location-03.p3": "从山顶，您可以拍摄开阔的风景照以及充满冒险感的肖像。",
+  "explore.location-03.best-for": "探险 · 情侣 · 个人",
+  "explore.location-03.best-time": "日出 / 早晨",
+
+  "explore.location-04": "— 电影般的体验",
+  "explore.location-04.p1": "从纳努奥亚到埃 Ella 的火车之旅是斯里兰卡风景最优美的铁路体验之一。",
+  "explore.location-04.p2": "路线穿过山区，经过茶园、山脉、森林、隧道、铁路桥和多雾的山谷。",
+  "explore.location-04.p3": "对于摄影而言，这段旅程非常适合拍摄自然、坦诚和具有电影质感的影像。",
+  "explore.location-04.best-for": "情侣 · 个人 · 游客",
+  "explore.location-04.best-time": "早晨 / 白天",
+
+  "explore.location-05": "— 绿色、自然与浪漫",
+  "explore.location-05.p1": "埃 Ella 周围环绕着美丽的产茶区，这使得埃 Ella 的茶园成为自然摄影的最佳地点之一。",
+  "explore.location-05.p2": "一排排无尽的绿茶植物与山地风光相结合，营造出优雅的斯里兰卡背景。",
+  "explore.location-05.p3": "这个地点特别适合蜜月和婚纱摄影。",
+  "explore.location-05.best-for": "情侣 · 个人 · 婚纱摄影",
+  "explore.location-05.best-time": "早晨 / 傍晚",
+
+  "explore.location-06": "— 自然与瀑布摄影",
+  "explore.location-06.p1": "拉瓦纳瀑布是埃 Ella 附近最受欢迎的自然景点之一。",
+  "explore.location-06.p2": "与山地观景台相比，瀑布、岩石和周围的热带绿色植物营造出了完全不同的摄影环境。",
+  "explore.location-06.best-for": "自然 · 情侣 · 旅行",
+  "explore.location-06.best-time": "白天",
+
+  "explore.location-07": "— 有趣且风景优美的旅行摄影",
+  "explore.location-07.p1": "埃 Ella 秋千是一项有趣的摄影体验，适合想要告别传统山地观景台的旅行者。",
+  "explore.location-07.p2": "以山脉和绿色植物为背景，秋千可以拍出美丽而俏皮的照片。",
+  "explore.location-07.p3": "它在寻找难忘旅行照片的情侣和独行游客中特别受欢迎。",
+  "explore.location-07.best-for": "情侣 · 个人 · 有趣的旅行照片",
+  "explore.location-07.best-time": "早晨 / 傍晚",
+
+  "explore.location-08": "— 文化与建筑",
+  "explore.location-08.p1": "如果您想在埃 Ella 的摄影体验中加入一些文化元素，摩訶彌那瓦佛教寺院（Mahamevnawa Buddhist Monastery）提供了一个宁静的环境。",
+  "explore.location-08.p2": "这里的建筑、佛教氛围和优美的环境营造出与典型山脉和铁路照片不同的视觉风格。",
+  "explore.location-08.best-for": "建筑 · 文化 · 个人 · 情侣",
+  "explore.location-08.best-time": "白天",
+
+  "explore.location-09": "在埃 Ella",
+  "explore.location-09.p1": "埃 Ella 是进行惊喜求婚的绝佳目的地。",
+  "explore.location-09.p2": "虽然小亚当峰等著名的观景台很美，但更安静、更私密的地点有时可以创造更加亲密的体验。",
+  "explore.location-09.best-for": "惊喜求婚 · 情侣",
+  "explore.location-09.best-time": "日落 / 傍晚",
+
+  "explore.location-10.p1": "如果您在斯里兰卡之行中有额外的时间，从埃 Ella 前往哈普特莱（Haputale）和立顿之座（Lipton's Seat）可以提供壮观的风光摄影机会。",
+  "explore.location-010.p2": "该地区以其茶园、多雾的山脉和周围乡村的全景而闻名。",
+  "explore.location-10.best-for": "情侣 · 个人 · 风景",
+  "explore.location-10.best-time": "日出 / 早晨",
+
+  "explore.location-11": "— 隐藏的自然体验",
+  "explore.location-11.p1": "如果您更喜欢远离喧嚣旅游景点的安静地点，秘密瀑布会是一个很好的选择。",
+  "explore.location-11.p2": "四周环绕着绿树、岩石和流水，这种类型的位置营造出更自然、更具冒险精神的摄影体验。",
+  "explore.location-11.best-for": "情侣 · 个人 · 自然",
+  "explore.location-11.best-time": "早晨 / 白天",
+
+  "explore.location-12": "在埃 Ella",
+  "explore.location-12.p1": "如果您想要更私密、不那么像典型游客照的照片，不妨考虑探索埃 Ella 周围一些较为安静的观景台。",
+  "explore.location-12.p2": "这些地点非常适合希望获得自然照片、且背景中没有大批游客的情侣和蜜月旅行者。",
+  "explore.location-12.best-for": "情侣 · 蜜月 · 个人",
+  "explore.location-12.best-time": "早晨 / 傍晚",
+
+  "explore.tips.before": "出发前",
+  "explore.tips.h2": "在埃 Ella 拍出最好照片的技巧",
+  "explore.tips.01.span": "根据您的风格选择地点",
+  "explore.tips.01.p": "不要仅仅因为某个地方出名就选择它。考虑您究竟是想要山脉、茶园、火车、瀑布、文化还是浪漫的日落照片。",
+  "explore.tips.02.span": "围绕光线进行规划",
+  "explore.tips.02.p": "同一个地点在早晨和傍晚的光线下看起来完全不同——本指南上面的时间建议是一个很好的起点。",
+  "explore.tips.03.span": "考虑您的服装",
+  "explore.tips.03.p": "轻便、中性的颜色在埃 Ella 的绿色风景衬托下格外美丽，而优雅的服装则营造出更精致的婚纱照外观。",
+  "explore.tips.04.span": "留出足够的交通时间",
+  "explore.tips.04.p": "有些地点离埃 Ella 镇很近，而另一些则需要徒步或驾车。避免在彼此之间没有足够时间的情况下计划太多地点。",
+  "explore.tips.05.span": "让您的摄影师指导您",
+  "explore.tips.05.p": "当地摄影师可以协助摆姿势、构图、打光、选址和掌握时间，这样您就不必担心在镜头前该做些什么了。",
+
+  "explore.local.p1": "不仅仅是照片",
+  "explore.local.h2": "为什么选择当地的埃 Ella 摄影师？",
+  "explore.local.p2": "埃 Ella 到处都很美，但知道去哪里、什么时候去以及如何拍摄每个地方才是关键所在。我们的目标不是简单地在旅游景点拍照，而是为您创造一段属于您自己的专属体验和照片。",
+  "explore.local.booking": "预订您的埃 Ella 写真",
+  "explore.local.span-01": "选择正确的地点",
+  "explore.local.span-02": "围绕日出与日落进行规划",
+  "explore.local.span-03": "协调火车摄影",
+  "explore.local.span-04": "寻找更安静的观景台",
+  "explore.local.span-05": "规划惊喜求婚",
+  "explore.local.span-06": "指导您摆姿势",
+  "explore.local.span-07": "捕捉自然的情侣瞬间",
+  "explore.local.span-08": "根据天气调整计划",
+  "explore.local.span-09": "组织高效的路线",
+
+  "explore.cta.h2": "准备好在埃 Ella 记录您的故事了吗？",
+  "explore.cta.p": "让我们来规划您的完美摄影地点",
+  "explore.cta.booking": "预订拍摄",
+
+
+
+
+
+
+
+
+  "contact.hero.span": "让我们联系",
+  "contact.hero.h1": "保持<br />联系",
+  "contact.hero.p": "预约 · 提问",
+  
+  "contact.strip.h2": "关注旅程",
+  "contact.strip.p": "在社交媒体上保持联系",
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  "_comment7": "index hero section"
+}
